@@ -6,7 +6,7 @@
   
     EJS_player = '#game';
     EJS_core = '3dsx';  
-    EJS_gameUrl = 'game file name';
+    EJS_gameUrl = 'nzportable.3dsx';
     EJS_pathtodata = 'https://cdn.jsdelivr.net/gh/ethanaobrien/emulatorjs@main/data/';
   
 </script>
